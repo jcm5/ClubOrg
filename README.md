@@ -1,6 +1,25 @@
 # ClubOrg
 Program to store club info and streamline officer duties in a way that is user friendly, long lasting, and reusable.
 
+
+## Client side scripting(front end)
+  -HTML, CSS, Javascript
+  -other libraries and frameworks: JQuery, AngularJS
+## Server Side scripting(back end)
+  -Many options:
+    -PHP
+    -JSP
+    -Python
+    -Ruby
+## Database
+  - MySQL
+## Resources
+  -
+
+
+
+
+
 ## Positions and Duties
 ### President
 - reset Garnet Gate every semester 
@@ -51,16 +70,6 @@ Program to store club info and streamline officer duties in a way that is user f
 - list of duties
 - call members after meetings
 
-
-
-
-
-
-
-
-
-
-
 ## Neat not Necessary
 * Section to post informational minute tips/videos
 * Officer side and member side?
@@ -73,4 +82,5 @@ Program to store club info and streamline officer duties in a way that is user f
 * post to facebook when information for members is posted on the website
 * simple gear checkout for trips and for individuals
 * implement a random generator for trips that uses weighted values to aadjust for priority
-
+* Blog section for Social Media
+* Geolocation api for trips
