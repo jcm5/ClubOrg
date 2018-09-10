@@ -1,5 +1,6 @@
 # ClubOrg
 Program to store club info and streamline officer duties in a way that is user friendly, long lasting, and reusable.
+Password protected for officer use, one password for member view and one password for officer view
 
 
 ## Client side scripting(front end)
